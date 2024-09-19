@@ -1,6 +1,8 @@
 # Practica2_3W
 # Martinez Estrada Ricardo
 
+print ("Martínez Estrada Ricardo")
+print (" ")
 # Tipos de variables que pueden existir dentro de Python.
 
 a = "Hello World"                               # Es un tipo de dato "str"
@@ -35,8 +37,4 @@ print (type(m))
 print (type(n))
 print (type(o))
 
-print (" ")
-
-print ("Martínez Estrada Ricardo")
-
-![image](https://github.com/user-attachments/assets/5bcb7e0c-aefd-41d0-9882-a393a3a17a19)
+![image](https://github.com/user-attachments/assets/7c071bdf-a881-4b3c-9c01-f0a9d463b472)
